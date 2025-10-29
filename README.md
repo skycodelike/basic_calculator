@@ -26,7 +26,7 @@ with a design inspired by traditional Casio-style calculators.
 
 ---
 ## 📸 Preview
-![Calculator Preview](85583242-0FDE-4788-A88C-E9A2685D34E1.png)
+![Calculator Preview](\{85583242-0FDE-4788-A88C-E9A2685D34E1}.png)
 
 ---
 ## 👨‍💻 Author
