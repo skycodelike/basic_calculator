@@ -27,6 +27,9 @@ with a design inspired by traditional Casio-style calculators.
 ---
 ## 📸 Preview
 
+<p align="center">
+  <img src="https://github.com/skycodelike/basic_calculator/blob/main/%7B85583242-0FDE-4788-A88C-E9A2685D34E1%7D%20(1).png">
+</p>
 👉 **Click Here to View the Calculator :** https://skycodelike.github.io/basic_calculator/
 
 ---
