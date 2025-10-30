@@ -25,6 +25,14 @@ with a design inspired by traditional Casio-style calculators.
 - **JavaScript (ES6)** – Logic and interactivity  
 
 ---
+## 📸 Preview
+
+![Calculator Screenshot]([https://github.com/<your-username>/<repo-name>/blob/main/calculator.png?raw=true](https://github.com/skycodelike/basic_calculator/blob/main/%7B85583242-0FDE-4788-A88C-E9A2685D34E1%7D%20(1).png))
+
+<br>
+👉 **[Click Here to View the Calculator](https://skycodelike.github.io/basic_calculator/)**
+
+---
 ## 👨‍💻 Author
 Name: Akash
 Project: Basic Calculator<br>
