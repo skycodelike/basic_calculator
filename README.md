@@ -27,6 +27,6 @@ with a design inspired by traditional Casio-style calculators.
 ---
 ## 👨‍💻 Author
 Name: Akash
-Project: Basic Calculator
+Project: Basic Calculator<br>
 Description: Created to practice HTML, CSS, and JavaScript.
 I also learned how to use Git and GitHub while making this project.
