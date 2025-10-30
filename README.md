@@ -25,10 +25,6 @@ with a design inspired by traditional Casio-style calculators.
 - **JavaScript (ES6)** – Logic and interactivity  
 
 ---
-## 📸 Preview
-![Calculator Preview](./{85583242-0FDE-4788-A88C-E9A2685D34E1}.png)
-
----
 ## 👨‍💻 Author
 Name: Akash
 Project: Basic Calculator
